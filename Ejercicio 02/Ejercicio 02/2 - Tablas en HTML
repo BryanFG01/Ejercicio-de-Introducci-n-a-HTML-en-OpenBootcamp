@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+  </head>
+  <body>
+  <table>
+  <tr>
+  <th>Título</th>
+  <th>autor</th>
+  <th>Año de publicación</th>
+  <th>Enlace a Amazon</th>
+  </tr>
+  <tr>
+                <td>Diario de una pasion</td>
+                <td>Nicholas Sparks, Jan Sardi</td>
+                <td>1/octubre/1992</td>
+                <td><a href="https://www.amazon.com/-/es/NICHOLAS-SPARKS/dp/8415729316">Enlace Diario de una pasion</a></td>
+   </tr>
+     <tr>
+                <td>Orgullo y prejuicio</td>
+                <td>Jane Austen</td>
+                <td>28/enero/1813</td>
+                <td><a href="https://www.amazon.com/-/es/Jane-Austen/dp/8497646932">Enlace Orgullo y prejuicio</a></td>
+   </tr>
+     <tr>
+                <td>Crepusculo</td>
+                <td>Stephenie Meyer</td>
+                <td>5/octubre/2005</td>
+                <td><a href="https://www.amazon.com/-/es/Stephenie-Meyer/dp/6071101638">Enlace crepusculo</a></td>
+   </tr>
+   </table>
+  </body>
+  </html>
